@@ -22,8 +22,6 @@ using their utility library for items such as Random and Math.
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-
 - Error Handling would be the biggest thing to add into this program. Right now, it doesn't have much,
   meaning if a user decided to input something random, the program would not be able to properly handle
   that as of right now.
